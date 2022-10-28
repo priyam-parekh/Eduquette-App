@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#23A7D8</color>
+    <color name="colorPrimaryDark">#004B66</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="colorGray">#D3D3D3</color>
+    <color name="colorLightGray">#F5F5F5</color>
+    <color name="colorDarkGray">#A9A9A9</color>
+
+    <color name="gradientStart">#e4efe9</color>
+    <color name="gradientEnd">#93a5cf</color>
+
+    <color name="album_title">#4c4c4c</color>
+</resources>

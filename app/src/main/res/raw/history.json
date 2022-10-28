@@ -1,0 +1,71 @@
+{
+  "subject": "History",
+  "image": "history",
+  "indexCards": [
+    {
+      "id": 1,
+      "term": "republic",
+      "definition": "a government in which citizens elect the leaders"
+    },
+    {
+      "id": 2,
+      "term": "aristocracy",
+      "definition": "government by the best individuals or by a small privileged class"
+    },
+    {
+      "id": 3,
+      "term": "constitution",
+      "definition": "A plan of government"
+    },
+    {
+      "id": 4,
+      "term": "moderate",
+      "definition": "one who holds moderate views or one who belongs to a moderate group favoring a moderate course or program"
+    },
+    {
+      "id": 5,
+      "term": "minority",
+      "definition": "A part of a population differing from others in some characteristics and often subjected to differential treatment"
+    },
+    {
+      "id": 6,
+      "term": "solon",
+      "definition": "A wise and skillful lawgiver. <br/>A member of a legislative body."
+    },
+    {
+      "id": 7,
+      "term": "reparation",
+      "definition": "compensation for war damage"
+    },
+    {
+      "id": 8,
+      "term": "nation",
+      "definition": "a community of people composed of one or more nationalities and possessing a more or less defined territory and government"
+    },
+    {
+      "id": 9,
+      "term": "patriarch",
+      "definition": "in the early Christian Church, one of five powerful bishops in major cities"
+    },
+    {
+      "id": 10,
+      "term": "theocracy",
+      "definition": "a government headed by religious leaders or a leader regarded as a god"
+    },
+    {
+      "id": 11,
+      "term": "federal",
+      "definition": "a supporter in the Civil War; especially a soldier in the federal armies"
+    },
+    {
+      "id": 12,
+      "term": "guerilla",
+      "definition": "a person who engages in irregular warfare as a member of an independent unit carrying out harassment and sabotage"
+    },
+    {
+      "id": 13,
+      "term": "nationalism",
+      "definition": "pride in one’s own nation’s desire for independence"
+    }
+  ]
+}

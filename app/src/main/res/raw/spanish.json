@@ -1,0 +1,66 @@
+{
+  "subject": "Spanish",
+  "image": "spanish",
+  "indexCards": [
+    {
+      "id": 1,
+      "term": "Buenos días",
+      "definition": "Good morning"
+    },
+    {
+      "id": 2,
+      "term": "Buenas tardes",
+      "definition": "Good afternoon"
+    },
+    {
+      "id": 3,
+      "term": "Buenas noches",
+      "definition": "Good evening. (greeting)"
+    },
+    {
+      "id": 4,
+      "term": "Hola",
+      "definition": "Hello"
+    },
+    {
+      "id": 5,
+      "term": "¿Cómo se llama usted?",
+      "definition": "What is your name?"
+    },
+    {
+      "id": 6,
+      "term": "¿Cómo está usted?",
+      "definition": "How are you?"
+    },
+    {
+      "id": 7,
+      "term": "¿Cómo se llama usted?",
+      "definition": "What is your name?"
+    },
+    {
+      "id": 8,
+      "term": "Estoy bien",
+      "definition": "I am fine"
+    },
+    {
+      "id": 9,
+      "term": "Mucho gusto",
+      "definition": "Nice to meet you"
+    },
+    {
+      "id": 10,
+      "term": "Adiós",
+      "definition": "Goodbye"
+    },
+    {
+      "id": 11,
+      "term": "Hasta luego",
+      "definition": "See you later"
+    },
+    {
+      "id": 12,
+      "term": "Estoy perdido. ¿Dónde está el baño?",
+      "definition": "I am lost. Where is the restroom?"
+    }
+  ]
+}

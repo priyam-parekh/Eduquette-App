@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Edu-quette</string>
+    <string name="app_slogan">A study companion</string>
+    <string name="app_logo">App Logo</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="new_user">New User</string>
+    <string name="name_hint">Enter your Name</string>
+    <string name="lets_go">Lets Go!</string>
+    <string name="flip_card">Flip</string>
+    <string name="next_card">Next</string>
+    <string name="reset_cards">Reset</string>
+
+    <string name="default_name">Stranger</string>
+    <string name="welcome_user_format">Welcome %s!</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="action_view_cards">View Cards</string>
+    <string name="action_review_terms_in_order">Term Review (In Order)</string>
+    <string name="action_review_terms_random_order">Term Review (Random Order)</string>
+    <string name="action_review_definitions_in_order">Definition Review (In Order)</string>
+    <string name="action_review_definitions_random_order">Definition Review (Random Order)</string>
+</resources>

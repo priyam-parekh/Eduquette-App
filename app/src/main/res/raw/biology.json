@@ -1,0 +1,81 @@
+{
+  "subject": "Biology",
+  "image": "biology",
+  "indexCards": [
+    {
+      "id": 1,
+      "term": "Adaptation",
+      "definition": "Adaptation refers to the genetic mechanism of an organism to survive, thrive, and reproduce by constantly enhancing itself, by altering its structure or function, in order to become better suited to the changing environment."
+    },
+    {
+      "id": 2,
+      "term": "Cell Wall",
+      "definition": "The rigidity helps support and protect the plant."
+    },
+    {
+      "id": 3,
+      "term": "Nucleus",
+      "definition": "Stores hereditary info in its DNA, Site where RNA is copied from DNA."
+    },
+    {
+      "id": 4,
+      "term": "After-Shaft",
+      "definition": "A small supplementary feather, growing from the underside of the base of the shafts of a body feather. It is found in many birds and essential to keep them warm."
+    },
+    {
+      "id": 5,
+      "term": "Ribosomes",
+      "definition": "Synthesis of proteins, some are free and some attach to the endoplasmic reticulum."
+    },
+    {
+      "id": 6,
+      "term": "Air Sac",
+      "definition": "A thin-walled, air filled structure which is a part of the respiratory system of birds. The air passing through the air sac aids in their breathing and temperature regulation."
+    },
+    {
+      "id": 7,
+      "term": "Mitochondrion",
+      "definition": "Transfers energy from organic compounds to ATP; more numerous in cells that have a high energy requirement: liver, muscles."
+    },
+    {
+      "id": 8,
+      "term": "ATP",
+      "definition": "The molecule that most cells use as their main energy currency."
+    },
+    {
+      "id": 9,
+      "term": "Allopatric",
+      "definition": "Organisms that occur, originate, or occupy in separate geographical areas."
+    },
+    {
+      "id": 10,
+      "term": "Alpha Diversity",
+      "definition": "A measurement of species richness in a natural unit (specified area) consisting of all plants, animals, and micro-organisms in a habitat functioning together."
+    },
+    {
+      "id": 11,
+      "term": "Cytoplasm",
+      "definition": "The region of a cell between the cell membrane and the nucleus; contains the various organelles of the cell."
+    },
+    {
+      "id": 12,
+      "term": "Alula",
+      "definition": "A set of quill-like feathers located close to the base of the primary feathers that play a part in increasing or decreasing the bird's lift by affecting the airflow of the wings."
+    },
+    {
+      "id": 13,
+      "term": "Alveolus",
+      "definition": "A small angular cavity, sac, or pit in the body."
+    },
+    {
+      "id": 14,
+      "term": "Lysosomes",
+      "definition": "Small, spherical organelles that enclose hydrolytic enzymes within single membranes; digest proteins, carbs, lipids, DNA, RNA, old organelles, viruses, bacteria; rare in plant cells."
+    },
+    {
+      "id": 15,
+      "term": "Amnion",
+      "definition": "The innermost delicate embryonic or fetal membranes of higher vertebrates like mammals, birds, and reptiles."
+    }
+  ]
+}

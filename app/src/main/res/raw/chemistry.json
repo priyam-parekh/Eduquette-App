@@ -1,0 +1,76 @@
+{
+  "subject": "Chemistry",
+  "image": "chemistry",
+  "indexCards": [
+    {
+      "id": 1,
+      "term": "Base",
+      "definition": "A substance that, when dissolved, in pure water, increases the concentration of hydroxide ions"
+    },
+    {
+      "id": 2,
+      "term": "Stoichiometry",
+      "definition": "The study of the quantitative relations between amounts of reactants and products."
+    },
+    {
+      "id": 3,
+      "term": "Element",
+      "definition": "Substance that cannot be chemically broken down into simpler substances"
+    },
+    {
+      "id": 4,
+      "term": "Halogens",
+      "definition": "Elements that make up Group 17 in the periodic table."
+    },
+    {
+      "id": 5,
+      "term": "Actual yield",
+      "definition": "The actual yield is the amount of product you actually obtain from a chemical reaction, as in the amount you can measure or weigh as opposed to a calculated value."
+    },
+    {
+      "id": 6,
+      "term": "Matter",
+      "definition": "Anything that has mass and takes up space."
+    },
+    {
+      "id": 7,
+      "term": "Solid",
+      "definition": "State of matter with a definite shape and volume."
+    },
+    {
+      "id": 8,
+      "term": "Chemical Formula",
+      "definition": "Way of writing the name of a compound using chemical symbols."
+    },
+    {
+      "id": 9,
+      "term": "Alkali metal",
+      "definition": "An alkali metal is a metal in Group I of the periodic table. Examples of alkali metals include lithium, sodium, and potassium."
+    },
+    {
+      "id": 10,
+      "term": "Alkaline earth metal",
+      "definition": "An alkaline earth metal is an element belonging to Group II of the periodic table. Examples of alkaline earth metals are magnesium and calcium."
+    },
+    {
+      "id": 11,
+      "term": "Energy level",
+      "definition": "An energy level is a possible value of energy that an electron can have in an atom."
+    },
+    {
+      "id": 12,
+      "term": "Enthalpy",
+      "definition": "Enthalpy is a measure of the amount of energy in a system."
+    },
+    {
+      "id": 13,
+      "term": "Reactant",
+      "definition": "Substance that is changed in a chemical reaction."
+    },
+    {
+      "id": 14,
+      "term": "Chemical Bond",
+      "definition": "Force of attraction that holds atoms together."
+    }
+  ]
+}

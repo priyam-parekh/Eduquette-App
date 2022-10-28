@@ -1,0 +1,76 @@
+{
+  "subject": "Computers",
+  "image": "computers",
+  "indexCards": [
+    {
+      "id": 1,
+      "term": "Scope",
+      "definition": "Part of the program where the variable exists"
+    },
+    {
+      "id": 2,
+      "term": "Local variable",
+      "definition": "A variable that is restricted to use in a certain scope of a program"
+    },
+    {
+      "id": 3,
+      "term": "Class",
+      "definition": "A class is a template, or a blueprint, from which Java objects are created. All Java programs start with a class"
+    },
+    {
+      "id": 4,
+      "term": "Primitive Type",
+      "definition": "Primitive types are the basic, simple data types that are inherent to Java (int, double, char, and boolean)"
+    },
+    {
+      "id": 5,
+      "term": "Static method",
+      "definition": "A method called on the Class, rather than on a specific object of the Class."
+    },
+    {
+      "id": 6,
+      "term": "Static variable",
+      "definition": "A variable that is shared across all clients of a class"
+    },
+    {
+      "id": 7,
+      "term": "Object Oriented Programming",
+      "definition": "Programming model that focuses on objects and the data and actions associated with the objects"
+    },
+    {
+      "id": 8,
+      "term": "State",
+      "definition": "The state of an object is all of the object’s associated data. It is the state that the object is in."
+    },
+    {
+      "id": 9,
+      "term": "Behavior",
+      "definition": "The behavior of an object is what the object is able to do. It is the actions that can be performed by the Object."
+    },
+    {
+      "id": 10,
+      "term": "Bit",
+      "definition": "Binary Digit, the single unit of information in a computer."
+    },
+    {
+      "id": 11,
+      "term": "Protocol",
+      "definition": "A set of rules used for transmitting data."
+    },
+    {
+      "id": 13,
+      "term": "HTTP (Hypertext Transfer Protocol)",
+      "definition": "The protocol used for sending and receiving web pages."
+    },
+    {
+      "id": 14,
+      "term": "DNS (Domain Name Service)",
+      "definition": "The service that translates URLs to IP addresses."
+    },
+    {
+      "id": 15,
+      "term": "Metadata",
+      "definition": "Data that describes other data."
+    }
+  ]
+}

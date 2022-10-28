@@ -1,0 +1,81 @@
+{
+  "subject": "English",
+  "image": "english",
+  "indexCards": [
+    {
+      "id": 1,
+      "term": "Abate",
+      "definition": "<b>verb</b>. to become less active, less intense, or less in amount."
+    },
+    {
+      "id": 2,
+      "term": "Catharsis",
+      "definition": "<b>adj</b>. A cleansing of the spirit brought about by the pity and terror or a dramatic tragedy."
+    },
+    {
+      "id": 3,
+      "term": "Clinical",
+      "definition": "<b>adj</b>. emotionally unattached (usually used in medical or scientific setting)"
+    },
+    {
+      "id": 4,
+      "term": "Clout",
+      "definition": "<b>n</b>. special advantage or power"
+    },
+    {
+      "id": 5,
+      "term": "Coarse",
+      "definition": "<b>adj</b>. indicating a rough texture<br/><b>adj</b>. lacking refinement or sophistication."
+    },
+    {
+      "id": 6,
+      "term": "Erratic",
+      "definition": "<b>adj</b>. having no fixed course; deviating from the norm"
+    },
+    {
+      "id": 7,
+      "term": "Establish",
+      "definition": "<b>verb</b>. to enact<br/><b>verb</b>. to found (a business, group, school, etc.)"
+    },
+    {
+      "id": 8,
+      "term": "Evoke",
+      "definition": "<b>verb</b>. to draw forth or call up"
+    },
+    {
+      "id": 9,
+      "term": "Exacerbate",
+      "definition": "<b>verb</b>. to make worse or increase the severity of"
+    },
+    {
+      "id": 10,
+      "term": "Excel",
+      "definition": "<b>verb</b>. to do something extremely well or to be superior in"
+    },
+    {
+      "id": 11,
+      "term": "Excel",
+      "definition": "<b>verb</b>. to do something extremely well or to be superior in"
+    },
+    {
+      "id": 12,
+      "term": "Pathos",
+      "definition": "<b>verb</b>. That element in literature that stimulates pity or sorrow"
+    },
+    {
+      "id": 13,
+      "term": "Simile",
+      "definition": "<b>verb</b>. A figurative comparison using the words like or as"
+    },
+    {
+      "id": 14,
+      "term": "Aphorism",
+      "definition": "<b>verb</b>. A short, pithy statement of a generally accepted truth or sentiment."
+    },
+    {
+      "id": 15,
+      "term": "Mood",
+      "definition": "<b>verb</b>. The emotional tone in a work of literature."
+    }
+  ]
+}
